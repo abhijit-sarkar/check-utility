@@ -1,0 +1,17 @@
+{
+    "name": "frost1/cloud",
+    "description": "FROST Cloud services",
+    "type": "library",
+    "authors": [{
+        "name": "Abhijit Sarkar",
+        "email": "abhijits30@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Frost\\Cloud\\": "src/"
+        }
+    },
+    "require": {
+    }
+}
